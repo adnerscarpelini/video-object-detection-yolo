@@ -2,6 +2,10 @@
 
 This Python script performs real-time object detection in a video file using the YOLOv8 model. It detects objects like people and cars and can be configured to only show detections of people. Additionally, you can adjust whether you want the video to be displayed during processing.
 
+## Sample
+
+![sample](https://github.com/adnerscarpelini/video-object-detection-yolo/blob/main/sample.gif)
+
 ## Features
 
 - Object detection in a video (can detect people and cars).
